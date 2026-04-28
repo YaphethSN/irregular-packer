@@ -1,4 +1,4 @@
-# Flamethrower's Polygon Packer — SVG/PNG Extension
+# Flamethrower's Polygon Packer for irregular shapes
 
 This repository is based on [Flamethrower's polygon-packer](https://github.com/Flamethr0wer/polygon-packer), a fast 2D polygon packing tool originally written to solve polygon packing problems.
 
