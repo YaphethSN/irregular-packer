@@ -66,7 +66,9 @@ PNG/JPG mode is less precise than SVG mode(for obvious reasons).
 
 ## Planned output
 The main output is an SVG layout.
-Mostly cuz i like SVGs and anyone who doesn't can go get some tylenol and realize i'm right
+Mostly cuz i like SVGs and anyone who doesn't can go get some tylenol and realize i'm right.
+....
+but there will also be a png output so seeing the irregular shape in a container is easier
 
 ## Limitations
 This project WILL NOT support every possible SVG or image file.
